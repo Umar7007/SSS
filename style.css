@@ -1,0 +1,50 @@
+.he{
+    display: flex;
+    justify-content: space-between;
+    color: white;
+    background-color: #1F242D;
+}
+.p{
+    display: flex;
+    gap: 30px;
+    margin-right: 55px;
+    margin-top: 15px;
+}
+.he h1{
+    margin-left: 55px;
+    }
+    body{
+        background-color: #1F242D;
+    }
+    .text{
+        color: white;
+    }
+    .text p{
+        width:480px;
+    }
+    button{
+        background-color: aqua;
+        width: 176px;
+        height: 45px;
+        border: none;
+        border-radius: 25px;
+    }
+  .opshi{
+    display: flex;
+    justify-content: space-between;
+  }  
+  .card{
+    width: 380px;
+    height: 369px;
+    text-align: center;
+    background-color: #323946;
+    border-radius: 20px;
+    
+  }
+  .card button{
+    box-shadow: 0px 0px 10px 0px #00EEFF;
+  }
+  .w{
+    display: flex;
+    justify-content: space-around;
+  }
